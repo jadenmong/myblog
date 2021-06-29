@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ec92493-9b47-49b9-a703-e761b16e3b5d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myAutoScrollFromSource" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blog@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blog: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../GameYoYo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="10.0" />
+  </component>
+  <component name="ProjectId" id="1Y7Z1qvg4kH13Bl4vKHqrUpaHpK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/lib" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GameYoYo" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lrm.aspect" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaProject\blog\src\main\resources\templates" />
+      <recent name="E:\ideaProject\blog\src\main\resources\templates\admin" />
+      <recent name="E:\ideaProject\blog\src\main\resources\static\lib\waypoints" />
+      <recent name="E:\ideaProject\blog\src\main\resources\static\lib\qrcode" />
+      <recent name="E:\ideaProject\blog\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lrm.web" />
+      <recent name="com.lrm.util" />
+      <recent name="com.lrm.service" />
+      <recent name="com.lrm.web.admin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BlogApplication">
+    <configuration name="FatherSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lrm.text.FatherSort" />
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lrm.text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MD5Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jyu.util.MD5Utils" />
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jyu.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Text2$Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lrm.text.Text2$Test2" />
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lrm.text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jyu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jyu" />
+      <option name="MAIN_CLASS_NAME" value="com.jyu.BlogApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jyu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jyu" />
+      <option name="MAIN_CLASS_NAME" value="com.jyu.BlogApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jyu.BlogApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="deep" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FatherSort" />
+      <item itemvalue="Application.MD5Utils" />
+      <item itemvalue="Application.Text2$Test2" />
+      <item itemvalue="JUnit.BlogApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.BlogApplicationTests.test" />
+      <item itemvalue="Spring Boot.BlogApplication" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BlogApplicationTests.test" />
+        <item itemvalue="JUnit.BlogApplicationTests.contextLoads" />
+        <item itemvalue="Application.MD5Utils" />
+        <item itemvalue="Application.FatherSort" />
+        <item itemvalue="Application.Text2$Test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringRepositoriesView">
+    <option name="searchInLibraries" value="true" />
+    <option name="showAllRepositoryMethods" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ec92493-9b47-49b9-a703-e761b16e3b5d" name="Default Changelist" comment="" />
+      <created>1582295381446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582295381446</updated>
+      <workItem from="1582295383973" duration="1284000" />
+      <workItem from="1582337251093" duration="8882000" />
+      <workItem from="1582436169642" duration="4882000" />
+      <workItem from="1582464392026" duration="2923000" />
+      <workItem from="1582545370573" duration="4330000" />
+      <workItem from="1582681992477" duration="12117000" />
+      <workItem from="1582805945753" duration="2992000" />
+      <workItem from="1582809041614" duration="2794000" />
+      <workItem from="1582980759487" duration="32000" />
+      <workItem from="1583071079953" duration="3244000" />
+      <workItem from="1583126435924" duration="2560000" />
+      <workItem from="1583155728630" duration="6219000" />
+      <workItem from="1583235351072" duration="4533000" />
+      <workItem from="1583241181888" duration="9000" />
+      <workItem from="1583287253934" duration="135000" />
+      <workItem from="1583324257141" duration="7363000" />
+      <workItem from="1583411119315" duration="2193000" />
+      <workItem from="1583588792009" duration="3753000" />
+      <workItem from="1583676005794" duration="2604000" />
+      <workItem from="1583678663632" duration="15000" />
+      <workItem from="1583806107688" duration="1164000" />
+      <workItem from="1584531917421" duration="309000" />
+      <workItem from="1584581203591" duration="10500000" />
+      <workItem from="1584689072976" duration="1376000" />
+      <workItem from="1584690477030" duration="34000" />
+      <workItem from="1584690572378" duration="16171000" />
+      <workItem from="1584776272013" duration="7380000" />
+      <workItem from="1584878708578" duration="5272000" />
+      <workItem from="1584944765611" duration="5897000" />
+      <workItem from="1584971657365" duration="2816000" />
+      <workItem from="1584974549337" duration="201000" />
+      <workItem from="1584974766837" duration="154000" />
+      <workItem from="1584974945520" duration="369000" />
+      <workItem from="1584975340588" duration="472000" />
+      <workItem from="1585008396751" duration="1596000" />
+      <workItem from="1585139553638" duration="2353000" />
+      <workItem from="1585185727057" duration="797000" />
+      <workItem from="1585228332447" duration="2368000" />
+      <workItem from="1585273327393" duration="1223000" />
+      <workItem from="1585487301780" duration="4359000" />
+      <workItem from="1585656995405" duration="10424000" />
+      <workItem from="1585833025997" duration="7851000" />
+      <workItem from="1585916620921" duration="9437000" />
+      <workItem from="1586149561663" duration="10336000" />
+      <workItem from="1586173329466" duration="6122000" />
+      <workItem from="1586433914373" duration="10192000" />
+      <workItem from="1586520624146" duration="8259000" />
+      <workItem from="1586692426394" duration="11717000" />
+      <workItem from="1586744426156" duration="5102000" />
+      <workItem from="1586930663351" duration="9771000" />
+      <workItem from="1587028961005" duration="9074000" />
+      <workItem from="1587105684427" duration="4836000" />
+      <workItem from="1587212823447" duration="3948000" />
+      <workItem from="1587298888091" duration="6397000" />
+      <workItem from="1587365961940" duration="1971000" />
+      <workItem from="1587368073930" duration="2180000" />
+      <workItem from="1587476225428" duration="2466000" />
+      <workItem from="1587556470060" duration="12841000" />
+      <workItem from="1587603720301" duration="11754000" />
+      <workItem from="1587689658624" duration="4928000" />
+      <workItem from="1587786078899" duration="1311000" />
+      <workItem from="1587789805190" duration="1345000" />
+      <workItem from="1587825798382" duration="315000" />
+      <workItem from="1587826589896" duration="191000" />
+      <workItem from="1587827667224" duration="1359000" />
+      <workItem from="1588081336808" duration="2742000" />
+      <workItem from="1588126798453" duration="9018000" />
+      <workItem from="1588159117606" duration="2483000" />
+      <workItem from="1588175544785" duration="206000" />
+      <workItem from="1588253373747" duration="6213000" />
+      <workItem from="1588421147082" duration="6965000" />
+      <workItem from="1588507592438" duration="6162000" />
+      <workItem from="1588817953255" duration="4000" />
+      <workItem from="1589124359238" duration="28000" />
+      <workItem from="1589184654282" duration="64000" />
+      <workItem from="1589201501839" duration="392000" />
+      <workItem from="1596160899650" duration="20000" />
+      <workItem from="1596592542778" duration="1012000" />
+      <workItem from="1596597394249" duration="2711000" />
+      <workItem from="1596614590524" duration="4721000" />
+      <workItem from="1596636444746" duration="5000" />
+      <workItem from="1596636565060" duration="517000" />
+      <workItem from="1596807115409" duration="312000" />
+      <workItem from="1597910852857" duration="109000" />
+      <workItem from="1598277787176" duration="26000" />
+      <workItem from="1599743834130" duration="332000" />
+      <workItem from="1600267382484" duration="46000" />
+      <workItem from="1606985618041" duration="253000" />
+      <workItem from="1607521842910" duration="152000" />
+      <workItem from="1607522014262" duration="4217000" />
+      <workItem from="1607583982845" duration="12058000" />
+      <workItem from="1607607580291" duration="1313000" />
+      <workItem from="1607608915330" duration="4000" />
+      <workItem from="1607646525544" duration="18282000" />
+      <workItem from="1607693503660" duration="2070000" />
+      <workItem from="1607935423646" duration="2636000" />
+      <workItem from="1607944958936" duration="408000" />
+      <workItem from="1607945388486" duration="4727000" />
+      <workItem from="1607998193857" duration="1609000" />
+      <workItem from="1608018349773" duration="10145000" />
+      <workItem from="1608084559637" duration="1426000" />
+      <workItem from="1608107578416" duration="8418000" />
+      <workItem from="1608128248323" duration="1522000" />
+      <workItem from="1608168249266" duration="23778000" />
+      <workItem from="1608257083315" duration="2219000" />
+      <workItem from="1608640350002" duration="1552000" />
+      <workItem from="1609727620437" duration="25000" />
+      <workItem from="1619421374868" duration="974000" />
+      <workItem from="1619524965140" duration="59000" />
+      <workItem from="1620214253642" duration="179000" />
+      <workItem from="1620215169872" duration="72000" />
+      <workItem from="1620215562509" duration="2082000" />
+      <workItem from="1620271700572" duration="31000" />
+      <workItem from="1620819376750" duration="2324000" />
+      <workItem from="1620885369246" duration="32000" />
+      <workItem from="1622601965753" duration="2491000" />
+      <workItem from="1622767996200" duration="2000" />
+      <workItem from="1622768369629" duration="103000" />
+      <workItem from="1622771601656" duration="636000" />
+      <workItem from="1622795795072" duration="633000" />
+      <workItem from="1622797046163" duration="2334000" />
+      <workItem from="1623201302125" duration="984000" />
+      <workItem from="1623638265353" duration="144000" />
+      <workItem from="1624411134625" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.thymeleaf.exceptions.TemplateProcessingException" package="org.thymeleaf.exceptions" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/blog$BlogApplication.ic" NAME="BlogApplication Coverage Results" MODIFIED="1584950287502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+spring:
+  thymeleaf:
+    mode: HTML
+  profiles:
+    active: dev
+
+  mvc:
+    view:
+      prefix: /templates/admin
+      suffix: .html
+
+comment.avatar: /images/forest.jpg
+
